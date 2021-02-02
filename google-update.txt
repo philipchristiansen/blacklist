@@ -1,0 +1,6 @@
+http://cache.pack.google.com/edgedl/chrome/win/
+http://www.google.com/dl/chrome/win/
+https://dl.google.com/chrome/win/
+http://dl.google.com/chrome/win/
+http://google.com/dl/chrome/win/
+http://tools.google.com/service/update2
